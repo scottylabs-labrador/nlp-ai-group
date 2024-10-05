@@ -1,0 +1,22 @@
+This Class can be connected to an external API easily,
+keeps track of conversation history (could be done by frontend),
+requests dialogue from frontend and sends replies back to frontend,
+
+
+Use Streamlit to test API, build working frontend
+
+Create llm_helix Class to Interact with the model.
+
+- Class Requirements keeps track of conversation history (may scrap later and let client track this)
+- Store List of functions.
+- Create a system prompt to tell the LLM what to do!
+- Let LLM call functions (may have to call multiple functions)
+
+
+
+
+
+
+Reccomend: Object Oriented Programming (Create a Class)
+
+
